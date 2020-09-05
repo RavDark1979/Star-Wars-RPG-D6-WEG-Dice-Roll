@@ -1,4 +1,4 @@
-# Star-Wars-D6-WEG-Dice-Roll
+# Star-Wars-RPG-D6-WEG-Dice-Roll
 This is my program of dice rolling Star Wars RPG West End Games setting. 
 You provide the dice pool and difficulty level to be beaten. Program gives you info about each roll and adds the results. 
 Then it is compared with difficulty number.
