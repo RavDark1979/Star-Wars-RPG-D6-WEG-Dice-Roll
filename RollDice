@@ -18,7 +18,7 @@ elif x <= sum_rolls:
 
 while lst_num[-1] == 6:
     lst_num.append(random.randint(1, 6))
-    print("Advantage gained!!")
+    print("Advantage gained, but don't get cocky!!")
 if lst_num[-1] == 1:
     lst_num.remove(min(lst_num))
     lst_num.remove(max(lst_num))
