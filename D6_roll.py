@@ -25,9 +25,6 @@ while lst_num[-1] == 6:
     lst_num.append(random.randint(1, 6))
     print("Advantage gained, but don't get cocky!!")
 
-
-sum_rolls = sum(lst_num)
-
 print(f'Rolled: {lst_num}')
 print(f'Total: {sum_rolls}')
 
