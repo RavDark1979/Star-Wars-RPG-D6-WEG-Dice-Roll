@@ -16,16 +16,20 @@ if x > sum_rolls:
 elif x <= sum_rolls:
     print("Test was sucessful!")
 
-while lst_num[-1] == 6:
-    lst_num.append(random.randint(1, 6))
-    print("Advantage gained, but don't get cocky!!")
 if lst_num[-1] == 1:
     lst_num.remove(min(lst_num))
     lst_num.remove(max(lst_num))
-    print("Complication - I got a bad feeling about this...")
+
+    print("""There was a '1' on Wild Die - Substracting '1' and the next highest roll from the pool. 
+    Complication - I got a bad feeling about this...""")
+
+while lst_num[-1] == 6:
+    lst_num.append(random.randint(2, 6))
+    print("There was a '6' on Wild Die. Advantage gained, but don't get cocky!!")
 
 sum_rolls = sum(lst_num)
 
 print(f'Rolled: {lst_num}')
 print(f'Total: {sum_rolls}')
 
+#list ignore?
