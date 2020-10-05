@@ -4,7 +4,7 @@ You provide the dice pool and difficulty level to be beaten. Program gives you i
 Then it is compared with difficulty number.
 
 Wild Die rule is included:
-a) 6 on Wild Die provides with additional roll. If another 6 is rolled, it keeps rolling. All is summed and added at the end.
+a) 6 on Wild Die provides with additional roll. If another 6 is rolled, it keeps rolling. All is summed up at the end.
 b) 1 on Wild Die removes "1" and highest Die value from the total.
 
 I have also added info about Advantage / Disadvantage to the WildDie - from Zorro d6 rules - so GMs will get clear info for additional description 
