@@ -11,3 +11,14 @@ I have also added info about Advantage / Disadvantage to the WildDie - from Zorr
 of the action outcome / or can incorporate the rules straight from Zorro D6.
 
 I use the following variant: for each "6" on a Wild Die, a hero gets CP point that can be used for boosting rolls only (for character development different CPs are used).
+
+
+# Deflect
+
+This is my modified rules for original D6 deflect rules. It is still work in progress.
+
+Deflect: 
+Jedi extends his senses into the near future to block incoming ranged attacks with a lightsaber. 
+Sense difficulty*: 1 shot - very easy (1-5). Modified by:+3 to the difficulty per each additional shot in a round. +5 for each additional arc, up to +15 for four arcs. All concealment penalties do not apply 
+
+Example 1: Jedi attempt to deflect four shots from one arc. GM sets the difficulty at 13 (Base difficulty 4 and +3 for each additional shot). Jedi makes Sense roll with a result of 11. This is enough to deflect 3 shots, but the fourth one hits. 
