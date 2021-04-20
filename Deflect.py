@@ -2,13 +2,11 @@ import random
 
 n = int(input("Enter Sense dice pool: "))
 x = int(input("Enter number of shots: "))
-y = int(input("Enter the number of arcs you wish to cover (min: '1', max: '4'"))
 
 lst_num = []
 
 for _ in range(n):
     lst_num.append(random.randint(1, 6))
-
 
 if lst_num[-1] == 1 and n >= 2:
     lst_num.remove(min(lst_num))
@@ -26,9 +24,11 @@ elif lst_num[-1] == 6:
         print("Advantage gained, but don't get cocky!!")
 
 sum_rolls = sum(lst_num)
-deflect_diff = x * 3
+
+deflect_diff = (x * 3)
 deflected = sum_rolls // 3
 not_deflected = x
+
 
 print(f'Rolled: {lst_num}, Total: {sum_rolls}')
 print(f'Total deflect difficulty: {deflect_diff}')
