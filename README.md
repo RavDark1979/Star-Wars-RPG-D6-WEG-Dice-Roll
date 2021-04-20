@@ -22,3 +22,7 @@ Jedi extends his senses into the near future to block incoming ranged attacks wi
 Sense difficulty*: 1 shot - very easy (1-5). Modified by:+3 to the difficulty per each additional shot in a round.
 
 Example 1: Jedi attempt to deflect four shots. GM sets the difficulty at 12 (3 per each shot). Jedi makes Sense roll with a result of 11. This is enough to deflect 3 shots, but the fourth one hits. 
+
+* Why only Sense skill for deflect? 
+- Because IMO only this determines success. As Obi Wan taught “This time, let go your conscious self and act on instinct”. LS is a physical skill taught to control weapon in combat. 
+- I wanted to remove the following flaw. As per rules in the sourcebook, if LSC power is active, someone with LS 3D and Sense 7D is as good at deflection as someone with LS 7D and Sense 3D. 
