@@ -26,3 +26,5 @@ Example 1: Jedi attempt to deflect four shots. GM sets the difficulty at 12 (3 p
 * Why only Sense skill for deflect? 
 - Because IMO only this determines success. As Obi Wan taught “This time, let go your conscious self and act on instinct”. LS is a physical skill taught to control weapon in combat. 
 - I wanted to remove the following flaw. As per rules in the sourcebook, if LSC power is active, someone with LS 3D and Sense 7D is as good at deflection as someone with LS 7D and Sense 3D. 
+
+
