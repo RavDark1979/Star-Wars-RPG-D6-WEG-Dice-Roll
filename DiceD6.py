@@ -1,5 +1,4 @@
 def skillroll():
-
     import random
 
     n = int(input("Enter dice pool: "))
@@ -10,7 +9,7 @@ def skillroll():
     for _ in range(n):
         lst_num.append(random.randint(1, 6))
 
-    sum_rolls = sum(lst_num)
+    sum(lst_num)
 
     if lst_num[-1] == 1 and n >= 2:
         lst_num.remove(min(lst_num))
