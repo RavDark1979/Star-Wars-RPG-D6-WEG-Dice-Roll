@@ -8,7 +8,7 @@ a) 6 on Wild Die provides with additional roll. If another 6 is rolled, it keeps
 b) 1 on Wild Die removes "1" and highest Die value from the total.
 
 I have also added info about Advantage / Disadvantage to the WildDie - from Zorro d6 rules - so GMs will get clear info for additional description 
-of the action outcome / or can incorporate the rules straight from Zorro D6.
+of the action outcome / or can incorporate the rules straight from Zorro D6.Cancel changes
 
 I use the following variant: for each "6" on a Wild Die, a hero gets CP point that can be used for boosting rolls only (for character development different CPs are used).
 
@@ -26,3 +26,5 @@ Example 1: Jedi attempt to deflect four shots. GM sets the difficulty at 12 (3 p
 * Why only Sense skill for deflect? 
 - Because IMO only this determines success. As Obi Wan taught “This time, let go your conscious self and act on instinct”. LS is a physical skill taught to control weapon in combat. 
 - I wanted to remove the following flaw. As per rules in the sourcebook, if LSC power is active, someone with LS 3D and Sense 7D is as good at deflection as someone with LS 7D and Sense 3D. 
+
+https://hellogiggles.com/wp-content/uploads/sites/7/2016/08/16/luke.gif
